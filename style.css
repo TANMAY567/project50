@@ -1,0 +1,48 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    color: aqua;
+    background-color: black;
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+.grid{
+
+    border: 2px black solid  ;
+    display: flex;
+    flex-wrap: wrap;
+
+    background-image:url(bgimg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.origami{
+
+
+    background-image:url(bgimg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+   
+    border-radius: 20px;
+   
+    
+    width: 315px;
+    font-family: fantasy;
+}
+
+.bodyimage{
+    background-image:url(bgimg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+    font-size: 30px;
+}
